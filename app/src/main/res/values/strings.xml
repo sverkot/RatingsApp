@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">RatingsApp</string>
+
+    <string name="welcome">Welcome to Restaurant Survey App!</string>
+    <string name="welcome_button">Click here to take the survey</string>
+    <string name="submit_button">Submit Survey</string>
+
+
+    <string name="agree">Agree</string>
+    <string name="neutral">Neutral</string>
+    <string name="disagree">Disagree</string>
+
+    <string name="food_quality_label">Food Quality</string>
+    <string name="f_fresh">Food is always fresh.</string>
+    <string name="f_diverse">The menu is diverse.</string>
+    <string name="f_cooklevel">Dishes are well cooked.</string>
+
+    <string name="service_quality_label">Service Quality</string>
+    <string name="s_delay">Orders are taken without delay.</string>
+    <string name="s_waiters">Waiters are well-mannered.</string>
+    <string name="s_clean">Tables are always clean.</string>
+    <string name="s_impeccable">Food is served impeccably.</string>
+    <string name="s_atmosphere">Restaurant atmosphere is pleasant.</string>
+    <string name="s_music">Music is good.</string>
+
+    <string name="price_level_label">Price levels</string>
+    <string name="p_acceptable">Prices are acceptable.</string>
+    <string name="p_quality">Price-quality ratio is good.</string>
+
+    <string name="result_text_view">Result Goes Here</string>
+
+</resources>
